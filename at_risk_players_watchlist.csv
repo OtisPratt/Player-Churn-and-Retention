@@ -1,0 +1,251 @@
+PlayerID,Age,PlayTimeHours,InGamePurchases,SessionsPerWeek,AvgSessionDurationMinutes,PlayerLevel,AchievementsUnlocked,WeeklyEngagementMinutes,AchievementDensity,ProgressionVelocity,BingeToFrequencyRatio,MonetizedSessionScore,Gender,Location,GameGenre,GameDifficulty,ActualTier,PredictedTier,ChurnProbability,RecommendedIntervention
+30667,30,2.7009957796929864,0,0,177,7,9,0,1.125,2.1868195029833446,177.0,0,Male,Asia,RPG,Easy,Low,Low,0.9765,Habit Loop: Trigger daily login/streak reward or push notification
+16471,32,12.034372890862,1,0,178,27,8,0,0.2857142857142857,2.1540766526647657,178.0,0,Female,Asia,Action,Easy,Low,Low,0.9744,Habit Loop: Trigger daily login/streak reward or push notification
+29173,31,12.513253541866902,0,1,179,28,16,179,0.5517241379310345,2.1516525371550608,89.5,0,Male,Europe,Action,Hard,Low,Low,0.9742,Habit Loop: Trigger daily login/streak reward or push notification
+18417,17,0.4530499419577287,0,0,150,15,8,0,0.5,15.73894435079385,150.0,0,Male,USA,Strategy,Medium,Low,Low,0.9726,Habit Loop: Trigger daily login/streak reward or push notification
+25729,34,6.153153644354509,0,1,179,1,36,179,18.0,0.15030466053471403,89.5,0,Male,USA,RPG,Medium,Low,Low,0.9702,Habit Loop: Trigger daily login/streak reward or push notification
+19688,23,16.749208062381925,0,0,152,27,24,0,0.8571428571428571,1.5652892528372457,152.0,0,Male,Europe,Action,Easy,Low,Low,0.9693,Habit Loop: Trigger daily login/streak reward or push notification
+44041,35,19.831937806207087,0,0,159,16,17,0,1.0,0.7869392554956272,159.0,0,Female,Europe,Action,Hard,Low,Low,0.9687,Habit Loop: Trigger daily login/streak reward or push notification
+18925,29,10.726770674288524,0,0,118,17,12,0,0.6666666666666666,1.5142377530640478,118.0,0,Female,USA,Strategy,Easy,Low,Low,0.9684,Habit Loop: Trigger daily login/streak reward or push notification
+24758,20,11.512129893947067,0,0,146,19,5,0,0.25,1.581734477378082,146.0,0,Female,Europe,Simulation,Medium,Low,Low,0.9681,Habit Loop: Trigger daily login/streak reward or push notification
+24817,44,22.224052629921307,1,0,136,5,23,0,3.8333333333333335,0.22003117495936353,136.0,0,Male,Europe,RPG,Easy,Medium,Low,0.9678,Habit Loop: Trigger daily login/streak reward or push notification
+26537,23,0.1310253259460685,0,0,149,24,2,0,0.08,38.03333877926033,149.0,0,Male,USA,RPG,Easy,Low,Low,0.9669,Habit Loop: Trigger daily login/streak reward or push notification
+40898,24,14.488915255167043,0,0,92,22,38,0,1.6521739130434783,1.4677513099165775,92.0,0,Male,USA,Sports,Hard,Low,Low,0.9668,Habit Loop: Trigger daily login/streak reward or push notification
+40573,29,13.26563757176902,0,1,178,16,1,178,0.058823529411764705,1.162314489000733,89.0,0,Male,Europe,Simulation,Easy,Low,Low,0.9665,Habit Loop: Trigger daily login/streak reward or push notification
+28494,17,17.515124795835987,0,0,118,15,20,0,1.25,0.832633699182983,118.0,0,Female,USA,RPG,Easy,Low,Low,0.9664,Habit Loop: Trigger daily login/streak reward or push notification
+13077,34,15.897436461130042,0,0,140,16,23,0,1.3529411764705883,0.9757622807643036,140.0,0,Male,Asia,RPG,Easy,Low,Low,0.9654,Habit Loop: Trigger daily login/streak reward or push notification
+37272,45,22.4428712550187,0,0,99,6,17,0,2.4285714285714284,0.26151914175465346,99.0,0,Male,Europe,Strategy,Hard,Low,Low,0.9653,Habit Loop: Trigger daily login/streak reward or push notification
+12989,28,20.943202165358436,0,0,129,9,23,0,2.3,0.4197134332175224,129.0,0,Male,USA,Action,Medium,Low,Low,0.9651,Habit Loop: Trigger daily login/streak reward or push notification
+10189,49,4.51443260590539,0,0,179,37,9,0,0.23684210526315788,7.378701222632026,179.0,0,Male,Europe,RPG,Hard,Low,Low,0.9648,Habit Loop: Trigger daily login/streak reward or push notification
+9644,42,20.00040562179448,1,0,143,15,23,0,1.4375,0.7316928394847532,143.0,0,Female,Asia,Strategy,Medium,Low,Low,0.9648,Habit Loop: Trigger daily login/streak reward or push notification
+33401,31,15.10892569251855,0,0,126,14,2,0,0.13333333333333333,0.8969227143358292,126.0,0,Male,USA,Strategy,Hard,Low,Low,0.9646,Habit Loop: Trigger daily login/streak reward or push notification
+34516,25,12.491383345226346,0,14,12,28,1,168,0.034482758620689655,2.1552747121643927,0.8,0,Female,USA,RPG,Easy,Low,Low,0.9645,Session Depth: Offer mid-session quest chain or dynamic difficulty tuning
+11539,47,22.7536934075791,0,0,10,23,17,0,0.7083333333333334,0.9890901886796007,10.0,0,Male,Europe,RPG,Hard,Low,Low,0.9639,Habit Loop: Trigger daily login/streak reward or push notification
+42769,17,10.69713679953195,0,0,148,11,10,0,0.8333333333333334,0.9823939991927052,148.0,0,Male,USA,Action,Hard,Low,Low,0.9635,Habit Loop: Trigger daily login/streak reward or push notification
+47644,31,12.11466757383937,1,0,123,3,15,0,3.75,0.23781839532747412,123.0,0,Female,USA,Action,Medium,Low,Low,0.9633,Habit Loop: Trigger daily login/streak reward or push notification
+12813,45,3.1917477259778853,0,17,12,7,18,204,2.25,1.8961208943782342,0.6666666666666666,0,Female,USA,RPG,Easy,Low,Low,0.9633,Session Depth: Offer mid-session quest chain or dynamic difficulty tuning
+25466,49,8.64190107361661,0,0,130,27,20,0,0.7142857142857143,2.9534338407928735,130.0,0,Male,USA,Action,Easy,Low,Low,0.9633,Habit Loop: Trigger daily login/streak reward or push notification
+27615,45,15.734153201248354,0,0,97,13,41,0,2.9285714285714284,0.8007809116277369,97.0,0,Male,Other,RPG,Easy,Low,Low,0.9631,Habit Loop: Trigger daily login/streak reward or push notification
+15885,43,16.150029828730123,0,0,119,11,24,0,2.0,0.6606594770790843,119.0,0,Female,USA,Strategy,Easy,Low,Low,0.9631,Habit Loop: Trigger daily login/streak reward or push notification
+40969,28,2.006998926661693,1,3,67,1,18,201,9.0,0.39888329802023287,16.75,3,Female,Asia,RPG,Easy,Low,Low,0.963,Habit Loop: Trigger daily login/streak reward or push notification
+24476,39,4.851934209073553,0,0,132,7,24,0,3.0,1.3079383502383777,132.0,0,Male,USA,Simulation,Medium,High,Low,0.963,Habit Loop: Trigger daily login/streak reward or push notification
+44900,44,13.222619011295611,0,12,17,18,14,204,0.7368421052631579,1.311702961743929,1.3076923076923077,0,Male,Asia,RPG,Easy,Low,Low,0.9628,Session Depth: Offer mid-session quest chain or dynamic difficulty tuning
+12715,28,4.3944298605217655,0,0,105,20,21,0,1.0,4.086277783101773,105.0,0,Male,Asia,RPG,Hard,Low,Low,0.9627,Habit Loop: Trigger daily login/streak reward or push notification
+16688,25,13.598323427851255,1,0,148,25,35,0,1.3461538461538463,1.7732604963943777,148.0,0,Male,Other,Sports,Easy,Low,Low,0.9627,Habit Loop: Trigger daily login/streak reward or push notification
+42416,26,13.697929891757898,0,8,24,22,28,192,1.2173913043478262,1.5495216674348642,2.6666666666666665,0,Male,Europe,RPG,Easy,Low,Low,0.9626,Habit Loop: Trigger daily login/streak reward or push notification
+27442,49,14.518458128798155,1,0,129,24,36,0,1.44,1.598033552724003,129.0,0,Male,Europe,Sports,Hard,Low,Low,0.9625,Habit Loop: Trigger daily login/streak reward or push notification
+23799,43,5.613427032687447,0,2,129,24,8,258,0.32,3.9257849765239876,43.0,0,Male,Other,RPG,Hard,Low,Low,0.9625,Habit Loop: Trigger daily login/streak reward or push notification
+9233,17,14.015747922351792,1,11,23,4,7,253,1.4,0.2755627902466312,1.9166666666666667,11,Male,USA,RPG,Easy,Low,Low,0.9624,Session Depth: Offer mid-session quest chain or dynamic difficulty tuning
+10155,29,8.986226182171173,0,0,135,23,20,0,0.8333333333333334,2.4245679534003948,135.0,0,Male,USA,Strategy,Easy,Low,Low,0.9623,Habit Loop: Trigger daily login/streak reward or push notification
+36553,35,21.095878551314204,0,0,142,7,33,0,4.125,0.32413592173929034,142.0,0,Male,Other,Action,Easy,Low,Low,0.9621,Habit Loop: Trigger daily login/streak reward or push notification
+18438,41,15.43005756607673,0,0,84,18,19,0,1.0,1.1299394195744301,84.0,0,Female,Other,RPG,Easy,Low,Low,0.962,Habit Loop: Trigger daily login/streak reward or push notification
+38391,39,9.16185800305882,1,0,87,25,47,0,1.8076923076923077,2.5874940401820563,87.0,0,Male,Europe,RPG,Easy,Low,Low,0.9615,Habit Loop: Trigger daily login/streak reward or push notification
+12539,38,16.995013262768932,0,6,17,6,10,102,1.4285714285714286,0.3429548700468022,2.4285714285714284,0,Female,Other,RPG,Easy,Low,Low,0.9609,Habit Loop: Trigger daily login/streak reward or push notification
+44640,35,20.46149180550892,0,0,112,23,40,0,1.6666666666666667,1.0972501486728792,112.0,0,Male,USA,Sports,Hard,Low,Low,0.9609,Habit Loop: Trigger daily login/streak reward or push notification
+30805,41,0.7285654722501311,0,1,131,12,6,131,0.46153846153846156,9.767489214898632,65.5,0,Female,USA,RPG,Hard,Low,Low,0.9607,Habit Loop: Trigger daily login/streak reward or push notification
+39397,43,7.69467921931926,0,11,19,5,10,209,1.6666666666666667,0.6101520103694009,1.5833333333333333,0,Male,Europe,RPG,Easy,Low,Low,0.9607,Session Depth: Offer mid-session quest chain or dynamic difficulty tuning
+37471,32,14.447014133237376,0,0,168,11,14,0,1.1666666666666667,0.7359329363006034,168.0,0,Female,USA,RPG,Easy,Low,Low,0.9606,Habit Loop: Trigger daily login/streak reward or push notification
+27950,37,14.972538807048952,0,10,20,28,8,200,0.27586206896551724,1.8096577652300867,1.8181818181818181,0,Male,USA,RPG,Easy,Low,Low,0.9605,Session Depth: Offer mid-session quest chain or dynamic difficulty tuning
+25607,32,10.529268993476627,1,0,125,14,10,0,0.6666666666666666,1.2693497645474456,125.0,0,Male,USA,Simulation,Easy,Low,Low,0.9604,Habit Loop: Trigger daily login/streak reward or push notification
+28967,37,12.236101349700824,0,0,34,18,18,0,0.9473684210526315,1.41330533620658,34.0,0,Male,USA,RPG,Easy,Low,Low,0.9602,Habit Loop: Trigger daily login/streak reward or push notification
+9079,47,6.534987238893371,0,10,14,15,25,140,1.5625,2.1322000297415684,1.2727272727272727,0,Male,Asia,RPG,Easy,Low,Low,0.9601,Session Depth: Offer mid-session quest chain or dynamic difficulty tuning
+10046,47,7.229782045132806,0,9,16,8,3,144,0.3333333333333333,1.0349580302897856,1.6,0,Male,Europe,RPG,Easy,Low,Low,0.96,Session Depth: Offer mid-session quest chain or dynamic difficulty tuning
+26747,48,2.9739050148847017,0,12,14,28,27,168,0.9310344827586207,8.060093721626789,1.0769230769230769,0,Female,Europe,RPG,Easy,Low,Low,0.96,Session Depth: Offer mid-session quest chain or dynamic difficulty tuning
+44969,17,11.024933018973798,0,0,174,4,3,0,0.6,0.3470736006373916,174.0,0,Male,USA,Sports,Medium,Low,Low,0.9599,Habit Loop: Trigger daily login/streak reward or push notification
+37983,17,19.556603593472445,0,0,122,20,34,0,1.619047619047619,0.9971778076378361,122.0,0,Male,USA,Simulation,Easy,High,Low,0.9599,Habit Loop: Trigger daily login/streak reward or push notification
+22652,31,10.965928500984438,0,0,148,4,29,0,5.8,0.3488596671134457,148.0,0,Male,Europe,Action,Medium,Low,Low,0.9596,Habit Loop: Trigger daily login/streak reward or push notification
+28036,35,13.05027201055038,1,2,42,7,17,84,2.125,0.5165947956284367,14.0,2,Female,USA,RPG,Hard,Low,Low,0.9595,Habit Loop: Trigger daily login/streak reward or push notification
+36980,37,12.388781165734176,0,1,54,18,0,54,0.0,1.3965633963787356,27.0,0,Female,USA,RPG,Hard,Low,Low,0.9595,Habit Loop: Trigger daily login/streak reward or push notification
+16137,15,17.70504752397514,0,0,90,9,2,0,0.2,0.49436838811584805,90.0,0,Female,Other,Simulation,Easy,Low,Low,0.9594,Habit Loop: Trigger daily login/streak reward or push notification
+25135,29,12.6702969641929,0,4,52,20,24,208,1.1428571428571428,1.518568643848771,10.4,0,Male,Asia,RPG,Medium,Low,Low,0.9594,Habit Loop: Trigger daily login/streak reward or push notification
+23554,25,14.538148366615063,0,0,145,16,45,0,2.6470588235294117,1.0639607756178455,145.0,0,Male,Other,Strategy,Hard,Low,Low,0.9591,Habit Loop: Trigger daily login/streak reward or push notification
+46205,26,3.76393377652567,0,14,13,14,12,182,0.8,3.2833530569997387,0.8666666666666667,0,Male,Europe,RPG,Hard,Low,Low,0.9591,Session Depth: Offer mid-session quest chain or dynamic difficulty tuning
+40554,44,3.547888144688825,0,5,55,11,7,275,0.5833333333333334,2.7174663940338717,9.166666666666666,0,Male,Europe,RPG,Hard,Low,Low,0.9588,Habit Loop: Trigger daily login/streak reward or push notification
+19929,31,11.925445752233571,0,3,83,5,24,249,4.0,0.40240005064616785,20.75,0,Female,Europe,RPG,Easy,Low,Low,0.9586,Habit Loop: Trigger daily login/streak reward or push notification
+38808,37,9.343371938314522,0,3,62,12,3,186,0.23076923076923078,1.2190944399135197,15.5,0,Male,Other,RPG,Easy,Low,Low,0.9585,Habit Loop: Trigger daily login/streak reward or push notification
+36691,44,10.649408020078,0,0,163,45,19,0,0.41304347826086957,4.036088724976556,163.0,0,Male,USA,Sports,Easy,Low,Low,0.9585,Habit Loop: Trigger daily login/streak reward or push notification
+23655,20,14.071261823677672,0,0,147,17,34,0,1.8888888888888888,1.1666800175380647,147.0,0,Male,USA,Action,Easy,Low,Low,0.9585,Habit Loop: Trigger daily login/streak reward or push notification
+40896,41,16.3245612319487,0,2,24,5,18,48,3.0,0.29718457028795137,8.0,0,Male,USA,RPG,Hard,Low,Low,0.9585,Habit Loop: Trigger daily login/streak reward or push notification
+35287,49,7.179180131356713,0,5,45,19,26,225,1.3,2.4742224658094054,7.5,0,Male,USA,RPG,Easy,Low,Low,0.9584,Habit Loop: Trigger daily login/streak reward or push notification
+32016,37,20.990140568443525,0,0,176,91,21,0,0.22826086956521738,4.234499988968238,176.0,0,Male,USA,Sports,Easy,Low,Low,0.9583,Habit Loop: Trigger daily login/streak reward or push notification
+37209,42,14.08033627097967,1,1,173,6,20,173,2.857142857142857,0.41151314266614325,86.5,1,Male,Asia,Sports,Medium,Low,Low,0.9583,Habit Loop: Trigger daily login/streak reward or push notification
+35950,33,23.208052522805033,1,4,17,10,10,68,0.9090909090909091,0.4217976145607443,3.4,4,Male,USA,RPG,Easy,Low,Low,0.9582,Habit Loop: Trigger daily login/streak reward or push notification
+25563,48,6.282346619425443,1,0,176,34,17,0,0.4857142857142857,5.013014212900883,176.0,0,Male,USA,Simulation,Hard,Low,Low,0.958,Habit Loop: Trigger daily login/streak reward or push notification
+9365,46,15.378451296808205,0,1,145,5,4,145,0.6666666666666666,0.31489217093892974,72.5,0,Male,USA,RPG,Medium,Low,Low,0.958,Habit Loop: Trigger daily login/streak reward or push notification
+30860,36,8.229840116126535,0,6,38,19,26,228,1.3,2.1764430673709034,5.428571428571429,0,Male,USA,RPG,Easy,Low,Low,0.958,Habit Loop: Trigger daily login/streak reward or push notification
+16931,41,7.716581526863061,0,0,102,11,34,0,2.8333333333333335,1.338756265490327,102.0,0,Male,Europe,Action,Easy,Low,Low,0.958,Habit Loop: Trigger daily login/streak reward or push notification
+9017,47,17.272112901806345,0,2,131,13,9,262,0.6428571428571429,0.7314830865540298,43.666666666666664,0,Male,USA,RPG,Medium,Low,Low,0.9579,Habit Loop: Trigger daily login/streak reward or push notification
+33609,24,3.901851310730044,1,4,53,4,20,212,4.0,0.9087085677450115,10.6,4,Male,USA,RPG,Medium,Low,Low,0.9579,Habit Loop: Trigger daily login/streak reward or push notification
+14105,34,8.87149474411661,1,0,116,16,24,0,1.411764705882353,1.7073050177021911,116.0,0,Male,Asia,Action,Easy,Low,Low,0.9578,Habit Loop: Trigger daily login/streak reward or push notification
+23978,37,21.55567570103388,1,0,167,10,32,0,2.909090909090909,0.45339803393696254,167.0,0,Female,USA,Sports,Easy,Low,Low,0.9578,Habit Loop: Trigger daily login/streak reward or push notification
+23938,17,8.575564985211539,0,0,126,13,9,0,0.6428571428571429,1.4324177085595502,126.0,0,Female,USA,Strategy,Easy,Low,Low,0.9577,Habit Loop: Trigger daily login/streak reward or push notification
+9019,36,19.3388255215677,0,4,56,21,30,224,1.3636363636363635,1.0585304042908152,11.2,0,Female,Asia,RPG,Easy,Low,Low,0.9577,Habit Loop: Trigger daily login/streak reward or push notification
+26009,39,10.515037329768267,0,0,151,24,41,0,1.64,2.1788396427073122,151.0,0,Male,Asia,Simulation,Easy,Low,Low,0.9577,Habit Loop: Trigger daily login/streak reward or push notification
+26267,38,5.6748191257638805,0,0,113,10,43,0,3.909090909090909,1.619480635193976,113.0,0,Male,Europe,Sports,Easy,Low,Low,0.9577,Habit Loop: Trigger daily login/streak reward or push notification
+48314,34,8.307516636128597,0,2,84,21,28,168,1.2727272727272727,2.3843270319646757,28.0,0,Female,Europe,RPG,Easy,Low,Low,0.9576,Habit Loop: Trigger daily login/streak reward or push notification
+33531,42,3.021981186301572,0,3,39,7,22,117,2.75,1.9875177150933878,9.75,0,Male,Europe,RPG,Easy,Low,Low,0.9574,Habit Loop: Trigger daily login/streak reward or push notification
+47976,23,12.900239614747491,0,0,107,2,17,0,5.666666666666667,0.1492510624809217,107.0,0,Female,Other,Action,Medium,High,Low,0.9573,Habit Loop: Trigger daily login/streak reward or push notification
+46712,46,16.912325180803535,0,4,38,20,44,152,2.0952380952380953,1.1486116754842877,7.6,0,Male,Asia,RPG,Easy,Low,Low,0.9572,Habit Loop: Trigger daily login/streak reward or push notification
+31272,20,23.44736860859038,0,2,39,14,15,78,1.0,0.5846153800371173,13.0,0,Male,USA,RPG,Easy,Low,Low,0.9572,Habit Loop: Trigger daily login/streak reward or push notification
+42167,28,11.523580491650554,0,1,167,6,2,167,0.2857142857142857,0.4990194064211185,83.5,0,Male,Other,RPG,Easy,Low,Low,0.9572,Habit Loop: Trigger daily login/streak reward or push notification
+13977,16,4.076187717181321,0,12,18,22,8,216,0.34782608695652173,4.807495094093471,1.3846153846153846,0,Female,Europe,RPG,Easy,Low,Low,0.9572,Session Depth: Offer mid-session quest chain or dynamic difficulty tuning
+38732,39,22.115114129210053,0,1,77,11,17,77,1.4166666666666667,0.4864003753044173,38.5,0,Female,USA,RPG,Medium,Low,Low,0.9571,Habit Loop: Trigger daily login/streak reward or push notification
+20249,34,9.886859388842527,0,0,162,79,19,0,0.2375,7.605763883244737,162.0,0,Female,Europe,RPG,Hard,Low,Low,0.9571,Habit Loop: Trigger daily login/streak reward or push notification
+21026,22,6.383435784337796,0,0,165,31,2,0,0.0625,4.5035649305446785,165.0,0,Female,Asia,Strategy,Easy,Low,Low,0.9571,Habit Loop: Trigger daily login/streak reward or push notification
+45780,20,9.585827304882171,0,2,151,7,1,302,0.125,0.6940432141458106,50.333333333333336,0,Male,USA,RPG,Easy,Low,Low,0.9571,Habit Loop: Trigger daily login/streak reward or push notification
+34444,17,6.020687528464918,0,6,42,12,22,252,1.6923076923076923,1.8402967398170982,6.0,0,Male,Europe,RPG,Easy,Low,Low,0.9568,Habit Loop: Trigger daily login/streak reward or push notification
+15007,36,10.21189622783826,0,1,105,5,10,105,1.6666666666666667,0.46677076529232187,52.5,0,Male,Other,RPG,Medium,Low,Low,0.9566,Habit Loop: Trigger daily login/streak reward or push notification
+11106,34,17.062934849945158,0,2,151,50,1,302,0.0196078431372549,2.8469045992137314,50.333333333333336,0,Female,Europe,Strategy,Easy,Low,Low,0.9566,Habit Loop: Trigger daily login/streak reward or push notification
+16501,39,0.4005719929359719,0,0,102,15,31,0,1.9375,16.6560809326284,102.0,0,Female,Asia,Simulation,Easy,Low,Low,0.9565,Habit Loop: Trigger daily login/streak reward or push notification
+14679,19,6.823499612276098,1,0,150,9,28,0,2.8,1.22892066313674,150.0,0,Male,Other,Sports,Easy,Low,Low,0.9563,Habit Loop: Trigger daily login/streak reward or push notification
+26544,15,16.778685819795495,0,0,160,23,33,0,1.375,1.3311197529646512,160.0,0,Male,Asia,Simulation,Easy,Low,Low,0.9563,Habit Loop: Trigger daily login/streak reward or push notification
+22373,27,0.3308465700313787,0,0,151,1,47,0,23.5,1.2035916570760266,151.0,0,Female,USA,Simulation,Medium,Low,Low,0.9563,Habit Loop: Trigger daily login/streak reward or push notification
+28200,30,7.367143827675156,0,0,161,51,13,0,0.25,6.482657634984559,161.0,0,Male,USA,RPG,Easy,Low,Low,0.9563,Habit Loop: Trigger daily login/streak reward or push notification
+18135,35,21.454202866826332,0,0,14,24,39,0,1.56,1.093184760366087,14.0,0,Male,USA,RPG,Hard,Low,Low,0.9562,Habit Loop: Trigger daily login/streak reward or push notification
+11514,28,23.862430650870976,1,0,157,27,0,0,0.0,1.1082638012161865,157.0,0,Male,USA,Action,Easy,Low,Low,0.9562,Habit Loop: Trigger daily login/streak reward or push notification
+28759,20,18.417644707008655,0,18,13,15,23,234,1.4375,0.7929105463347011,0.6842105263157895,0,Female,USA,Strategy,Medium,Low,Low,0.956,Session Depth: Offer mid-session quest chain or dynamic difficulty tuning
+10210,48,1.661080256338697,0,0,99,11,34,0,2.8333333333333335,5.090046965047103,99.0,0,Male,Europe,Simulation,Easy,Low,Low,0.956,Habit Loop: Trigger daily login/streak reward or push notification
+19896,42,7.253669374424403,0,0,153,43,1,0,0.022727272727272728,5.545761358078558,153.0,0,Male,USA,Simulation,Hard,Low,Low,0.9558,Habit Loop: Trigger daily login/streak reward or push notification
+26481,42,8.773802361781264,0,0,177,97,25,0,0.25510204081632654,10.459571620778938,177.0,0,Male,Europe,Simulation,Easy,Low,Low,0.9558,Habit Loop: Trigger daily login/streak reward or push notification
+19816,31,3.183471628322012,0,0,144,3,34,0,8.5,0.8144490585818998,144.0,0,Male,Europe,Action,Hard,Low,Low,0.9558,Habit Loop: Trigger daily login/streak reward or push notification
+30659,46,8.61461361501347,1,1,52,13,45,52,3.2142857142857144,1.4262809757054948,26.0,1,Male,Asia,RPG,Easy,Low,Low,0.9555,Habit Loop: Trigger daily login/streak reward or push notification
+46436,24,3.992705389947567,0,8,22,25,17,176,0.6538461538461539,5.564575869127214,2.4444444444444446,0,Female,Europe,RPG,Hard,Low,Low,0.9554,Habit Loop: Trigger daily login/streak reward or push notification
+29596,25,23.381569481376197,0,0,165,31,9,0,0.28125,1.2980721398639667,165.0,0,Male,USA,Strategy,Easy,Low,Low,0.9553,Habit Loop: Trigger daily login/streak reward or push notification
+19402,28,5.016137438809287,0,0,171,69,19,0,0.2714285714285714,12.508752866551914,171.0,0,Male,USA,Sports,Medium,Low,Low,0.9553,Habit Loop: Trigger daily login/streak reward or push notification
+44335,44,3.1640858345571825,0,5,53,47,2,265,0.041666666666666664,12.827210420871626,8.833333333333334,0,Female,Europe,Strategy,Easy,Low,Low,0.9553,Habit Loop: Trigger daily login/streak reward or push notification
+21216,34,20.654781027783383,0,2,98,22,18,196,0.782608695652174,1.0399540402288523,32.666666666666664,0,Male,Europe,RPG,Easy,Medium,Low,0.9552,Habit Loop: Trigger daily login/streak reward or push notification
+40056,38,23.153678775494228,0,2,70,26,24,140,0.8888888888888888,1.099194769945748,23.333333333333332,0,Female,Asia,RPG,Medium,Low,Low,0.9552,Habit Loop: Trigger daily login/streak reward or push notification
+34893,46,21.8856575879382,1,16,13,24,30,208,1.2,1.072115031944902,0.7647058823529411,16,Female,USA,Strategy,Easy,Low,Low,0.9551,Session Depth: Offer mid-session quest chain or dynamic difficulty tuning
+45813,26,1.9762374886466612,0,0,168,57,19,0,0.3275862068965517,23.018793739025504,168.0,0,Female,Europe,Simulation,Medium,Low,Low,0.9551,Habit Loop: Trigger daily login/streak reward or push notification
+42890,35,23.97353155629791,0,1,169,6,5,169,0.7142857142857143,0.24516281952189228,84.5,0,Female,USA,Simulation,Medium,Low,Low,0.955,Habit Loop: Trigger daily login/streak reward or push notification
+41024,43,2.8069518854675364,0,1,176,42,12,176,0.27906976744186046,12.700517411387146,88.0,0,Female,USA,Simulation,Hard,Low,Low,0.955,Habit Loop: Trigger daily login/streak reward or push notification
+46050,33,5.728851137908927,0,2,45,19,2,90,0.1,3.050321733387651,15.0,0,Male,Asia,RPG,Easy,Low,Low,0.9548,Habit Loop: Trigger daily login/streak reward or push notification
+13515,19,17.00288334080885,0,18,12,22,34,216,1.4782608695652173,1.2569357614757048,0.631578947368421,0,Male,USA,Action,Easy,Low,Low,0.9548,Session Depth: Offer mid-session quest chain or dynamic difficulty tuning
+13852,20,4.287397267552317,1,0,96,22,38,0,1.6521739130434783,4.5953988713470775,96.0,0,Female,Other,Strategy,Hard,Low,Low,0.9547,Habit Loop: Trigger daily login/streak reward or push notification
+23491,42,3.2881884568847513,0,3,21,2,46,63,15.333333333333334,0.5279568381465153,5.25,0,Female,USA,Action,Easy,Low,Low,0.9547,Habit Loop: Trigger daily login/streak reward or push notification
+44182,20,10.496339170619272,1,1,123,17,24,123,1.3333333333333333,1.5459690480829926,61.5,1,Male,Europe,RPG,Easy,Low,Low,0.9547,Habit Loop: Trigger daily login/streak reward or push notification
+11925,24,17.235296338735747,0,0,161,54,11,0,0.2,3.044775738088928,161.0,0,Male,USA,Simulation,Medium,Low,Low,0.9546,Habit Loop: Trigger daily login/streak reward or push notification
+33523,25,7.963492869185604,0,6,29,19,14,174,0.7,2.2449360203488027,4.142857142857143,0,Female,Europe,RPG,Hard,Low,Low,0.9544,Habit Loop: Trigger daily login/streak reward or push notification
+34508,17,13.504586775884958,1,6,47,38,0,282,0.0,2.7133967326643065,6.714285714285714,6,Male,USA,Action,Hard,Low,Low,0.9544,Habit Loop: Trigger daily login/streak reward or push notification
+23536,18,2.9873743407055295,0,0,117,10,38,0,3.4545454545454546,2.867486831934682,117.0,0,Male,Other,Sports,Hard,High,Low,0.9543,Habit Loop: Trigger daily login/streak reward or push notification
+21415,36,11.61117218413353,0,0,167,12,35,0,2.6923076923076925,0.9908206916355154,167.0,0,Male,Europe,Simulation,Easy,Low,Low,0.9543,Habit Loop: Trigger daily login/streak reward or push notification
+33357,39,15.803986523221916,1,7,14,27,10,98,0.35714285714285715,1.6560366976226124,1.75,7,Female,Asia,RPG,Hard,Low,Low,0.9542,Habit Loop: Trigger daily login/streak reward or push notification
+15448,41,20.94714631867685,1,0,153,54,8,0,0.14545454545454545,2.5178174847893446,153.0,0,Female,Europe,Strategy,Easy,Low,Low,0.9541,Habit Loop: Trigger daily login/streak reward or push notification
+13633,31,17.005810695565337,0,4,27,13,5,108,0.35714285714285715,0.7426105666327826,5.4,0,Male,Europe,RPG,Hard,Low,Low,0.954,Habit Loop: Trigger daily login/streak reward or push notification
+46679,22,8.717536769622095,1,0,153,11,5,0,0.4166666666666667,1.1933773929985618,153.0,0,Male,Asia,Action,Hard,Low,Low,0.954,Habit Loop: Trigger daily login/streak reward or push notification
+25166,22,4.320109344034529,0,5,14,26,29,70,1.0740740740740742,5.394068504312699,2.3333333333333335,0,Male,Europe,RPG,Easy,Low,Low,0.9537,Habit Loop: Trigger daily login/streak reward or push notification
+29680,21,7.550308001975545,0,5,36,25,16,180,0.6153846153846154,3.105471243319511,6.0,0,Female,Other,RPG,Easy,Medium,Low,0.9537,Habit Loop: Trigger daily login/streak reward or push notification
+45190,22,0.3448363329089501,0,16,12,9,18,192,1.8,10.65295093194098,0.7058823529411765,0,Female,Other,Sports,Medium,Low,Low,0.9537,Session Depth: Offer mid-session quest chain or dynamic difficulty tuning
+47711,16,14.061360744525937,0,1,43,5,16,43,2.6666666666666665,0.3433745024055979,21.5,0,Male,Asia,RPG,Easy,Low,Low,0.9537,Habit Loop: Trigger daily login/streak reward or push notification
+20527,25,1.2847919913358012,0,5,31,3,21,155,5.25,1.680868142933953,5.166666666666667,0,Male,Asia,RPG,Easy,Low,Low,0.9535,Habit Loop: Trigger daily login/streak reward or push notification
+32328,49,1.7442317369656406,0,1,70,28,20,70,0.6896551724137931,12.476429924236777,35.0,0,Male,Other,RPG,Easy,Low,Low,0.9534,Habit Loop: Trigger daily login/streak reward or push notification
+26006,42,11.135639633878602,0,1,122,20,14,122,0.6666666666666666,1.7188569454976526,61.0,0,Female,Europe,RPG,Easy,Low,Low,0.9534,Habit Loop: Trigger daily login/streak reward or push notification
+39602,38,19.427002767671773,0,2,138,51,4,276,0.07692307692307693,2.559341241360139,46.0,0,Male,USA,Strategy,Easy,High,Low,0.9533,Habit Loop: Trigger daily login/streak reward or push notification
+18640,30,11.25990258792025,0,2,20,6,23,40,3.2857142857142856,0.5102083078615964,6.666666666666667,0,Female,USA,RPG,Medium,Low,Low,0.953,Habit Loop: Trigger daily login/streak reward or push notification
+38886,47,3.8096460517190662,0,5,56,55,2,280,0.03571428571428571,12.762068935582578,9.333333333333334,0,Male,Asia,Sports,Easy,Low,Low,0.953,Habit Loop: Trigger daily login/streak reward or push notification
+46565,32,12.83924429778779,0,0,149,61,9,0,0.14516129032258066,4.572972699069345,149.0,0,Male,USA,Action,Medium,Low,Low,0.953,Habit Loop: Trigger daily login/streak reward or push notification
+46190,36,2.073132836581041,0,1,94,28,28,94,0.9655172413793104,10.881676842305586,47.0,0,Female,Europe,RPG,Easy,Medium,Low,0.953,Habit Loop: Trigger daily login/streak reward or push notification
+10579,40,18.063748120313686,0,4,71,53,2,284,0.037037037037037035,2.8550268866233903,14.2,0,Female,Asia,Action,Hard,Low,Low,0.9529,Habit Loop: Trigger daily login/streak reward or push notification
+46832,28,7.446424746843306,0,8,25,28,22,200,0.7586206896551724,3.5235972015116506,2.7777777777777777,0,Male,Europe,RPG,Easy,Low,Low,0.9526,Habit Loop: Trigger daily login/streak reward or push notification
+36235,34,1.3774277280709102,1,4,67,12,4,268,0.3076923076923077,6.391724070428111,13.4,4,Male,Europe,Strategy,Medium,Low,Low,0.9525,Habit Loop: Trigger daily login/streak reward or push notification
+23567,38,21.89915735188611,0,0,29,9,35,0,3.5,0.40180082931745464,29.0,0,Female,Other,RPG,Hard,Low,Low,0.9525,Habit Loop: Trigger daily login/streak reward or push notification
+29408,46,16.378846634688127,0,4,39,2,34,156,11.333333333333334,0.11849150853055039,7.8,0,Female,Europe,Sports,Easy,Low,Low,0.9523,Habit Loop: Trigger daily login/streak reward or push notification
+32449,43,15.749696162239498,0,4,65,63,3,260,0.046875,3.8769955678554346,13.0,0,Male,Europe,Sports,Easy,Low,Low,0.9522,Habit Loop: Trigger daily login/streak reward or push notification
+40594,43,8.285109627136698,0,0,176,83,21,0,0.25,9.447804697122706,176.0,0,Female,USA,Action,Easy,Medium,Low,0.9522,Habit Loop: Trigger daily login/streak reward or push notification
+29674,49,15.675963550328824,0,6,19,2,5,114,1.6666666666666667,0.12364023903598276,2.7142857142857144,0,Male,Asia,RPG,Easy,Low,Low,0.9521,Habit Loop: Trigger daily login/streak reward or push notification
+14509,38,18.969726232723858,0,0,151,30,40,0,1.2903225806451613,1.5408537152195454,151.0,0,Male,Europe,Action,Medium,Low,Low,0.952,Habit Loop: Trigger daily login/streak reward or push notification
+47115,45,23.337637085159173,0,10,10,7,44,100,5.5,0.29365326668044867,0.9090909090909091,0,Male,Asia,RPG,Easy,Low,Low,0.952,Session Depth: Offer mid-session quest chain or dynamic difficulty tuning
+45916,28,20.80747822377752,0,6,36,11,10,216,0.8333333333333334,0.5162506742691324,5.142857142857143,0,Female,USA,RPG,Medium,Low,Low,0.9519,Habit Loop: Trigger daily login/streak reward or push notification
+19173,18,17.24153235088708,0,2,20,14,31,40,2.066666666666667,0.789108839254237,6.666666666666667,0,Male,Asia,RPG,Hard,Low,Low,0.9519,Habit Loop: Trigger daily login/streak reward or push notification
+19807,27,7.741616286851068,0,12,21,18,12,252,0.631578947368421,2.1840376175626814,1.6153846153846154,0,Female,USA,Simulation,Easy,Low,Low,0.9517,Session Depth: Offer mid-session quest chain or dynamic difficulty tuning
+20592,29,23.806454608045556,1,0,133,8,12,0,1.3333333333333333,0.32913068273445195,133.0,0,Male,Europe,Sports,Medium,Low,Low,0.9517,Habit Loop: Trigger daily login/streak reward or push notification
+38845,33,3.517625330734248,0,0,169,83,23,0,0.27380952380952384,20.65896970657321,169.0,0,Female,Europe,Simulation,Medium,Low,Low,0.9515,Habit Loop: Trigger daily login/streak reward or push notification
+37927,36,16.89787797774849,0,3,104,46,1,312,0.02127659574468085,2.64400061081202,26.0,0,Female,USA,Action,Hard,Low,Low,0.9515,Habit Loop: Trigger daily login/streak reward or push notification
+25350,32,11.741656193041258,0,14,19,13,20,266,1.4285714285714286,1.0619478112275216,1.2666666666666666,0,Male,Other,Strategy,Easy,Low,Low,0.9515,Session Depth: Offer mid-session quest chain or dynamic difficulty tuning
+21564,24,14.476938365937215,0,4,37,17,33,148,1.8333333333333333,1.1350784509245182,7.4,0,Male,USA,RPG,Hard,Low,Low,0.9514,Habit Loop: Trigger daily login/streak reward or push notification
+43677,45,0.0852139946084387,1,5,20,24,26,100,1.04,41.01063922105653,3.3333333333333335,5,Male,Asia,Strategy,Easy,Low,Low,0.9514,Habit Loop: Trigger daily login/streak reward or push notification
+22461,45,11.901214134963128,0,3,24,15,26,72,1.625,1.2095589864632716,6.0,0,Male,Asia,Simulation,Easy,Low,Low,0.9513,Habit Loop: Trigger daily login/streak reward or push notification
+37687,40,22.842262983162936,0,4,65,24,10,260,0.4,1.0281779456135636,13.0,0,Female,Europe,Action,Easy,Low,Low,0.9513,Habit Loop: Trigger daily login/streak reward or push notification
+38342,46,12.2800170650112,0,1,167,3,10,167,2.5,0.23474147058952857,83.5,0,Male,USA,Simulation,Easy,Low,Low,0.9513,Habit Loop: Trigger daily login/streak reward or push notification
+33809,44,8.61106820907911,1,1,157,57,16,157,0.27586206896551724,6.256127019573833,78.5,1,Male,Europe,Strategy,Easy,Low,Low,0.9511,Habit Loop: Trigger daily login/streak reward or push notification
+40436,29,18.739847560373857,0,1,167,91,2,167,0.021739130434782608,4.72976720394721,83.5,0,Female,Europe,RPG,Easy,Low,Low,0.951,Habit Loop: Trigger daily login/streak reward or push notification
+28775,34,6.738061134393919,0,10,27,34,3,270,0.08571428571428572,4.697390553726927,2.4545454545454546,0,Female,Europe,Simulation,Hard,Low,Low,0.951,Session Depth: Offer mid-session quest chain or dynamic difficulty tuning
+30394,24,3.007112054581228,0,19,11,19,11,209,0.55,5.417562856362376,0.55,0,Male,Europe,Sports,Hard,Low,Low,0.951,Session Depth: Offer mid-session quest chain or dynamic difficulty tuning
+35130,40,19.117084706487237,0,10,13,10,12,130,1.0909090909090908,0.5097597400236065,1.1818181818181819,0,Female,Other,RPG,Easy,Low,Low,0.9509,Session Depth: Offer mid-session quest chain or dynamic difficulty tuning
+35825,31,23.674251003811477,0,0,105,6,15,0,2.142857142857143,0.24819796894861393,105.0,0,Female,USA,Sports,Easy,Low,Low,0.9509,Habit Loop: Trigger daily login/streak reward or push notification
+10700,18,1.2287748017118965,0,2,31,5,5,62,0.8333333333333334,2.8922217023575403,10.333333333333334,0,Female,Europe,RPG,Easy,Low,Low,0.9507,Habit Loop: Trigger daily login/streak reward or push notification
+41977,40,6.1957486318949195,0,19,12,25,34,228,1.3076923076923077,3.733712445672399,0.6,0,Female,Asia,Sports,Easy,Low,Low,0.9507,Session Depth: Offer mid-session quest chain or dynamic difficulty tuning
+42190,37,4.201593432187073,0,5,25,6,3,125,0.42857142857142855,1.2761630895015392,4.166666666666667,0,Male,USA,Sports,Easy,Low,Low,0.9507,Habit Loop: Trigger daily login/streak reward or push notification
+33069,34,22.526703898355567,0,1,128,17,18,128,1.0,0.7382732706791805,64.0,0,Male,USA,Sports,Easy,High,Low,0.9506,Habit Loop: Trigger daily login/streak reward or push notification
+18840,25,9.323605313425062,0,10,24,18,2,240,0.10526315789473684,1.8323211718818726,2.1818181818181817,0,Male,Asia,Sports,Easy,High,Low,0.9506,Session Depth: Offer mid-session quest chain or dynamic difficulty tuning
+15551,34,10.106725466504868,0,15,18,13,19,270,1.3571428571428572,1.225637454372972,1.125,0,Female,Other,Sports,Medium,Low,Low,0.9504,Session Depth: Offer mid-session quest chain or dynamic difficulty tuning
+44577,40,5.3848254774374436,0,5,28,6,30,140,4.285714285714286,1.0195714423484838,4.666666666666667,0,Male,Europe,Action,Easy,Low,Low,0.9504,Habit Loop: Trigger daily login/streak reward or push notification
+16180,41,4.019679536273532,1,1,149,11,8,149,0.6666666666666666,2.4338008727648597,74.5,1,Male,USA,Sports,Easy,Low,Low,0.9502,Habit Loop: Trigger daily login/streak reward or push notification
+46016,29,17.697861525033964,0,0,169,25,44,0,1.6923076923076923,1.3737877918022756,169.0,0,Male,Other,Simulation,Hard,Medium,Low,0.95,Habit Loop: Trigger daily login/streak reward or push notification
+23581,18,17.362209997577246,1,2,33,22,38,66,1.6521739130434783,1.2316505070192314,11.0,2,Male,Asia,RPG,Easy,Low,Low,0.95,Habit Loop: Trigger daily login/streak reward or push notification
+28363,45,15.387496556113042,0,3,87,42,4,261,0.09302325581395349,2.643588299242755,21.75,0,Female,USA,Sports,Easy,Medium,Low,0.9499,Habit Loop: Trigger daily login/streak reward or push notification
+11152,28,0.750046655027039,0,11,11,27,30,121,1.0714285714285714,21.599193831222227,0.9166666666666666,0,Male,Other,Simulation,Easy,Low,Low,0.9499,Session Depth: Offer mid-session quest chain or dynamic difficulty tuning
+35544,42,4.587595943952538,0,17,12,23,5,204,0.20833333333333334,4.520799264206381,0.6666666666666666,0,Female,USA,Action,Easy,Low,Low,0.9499,Session Depth: Offer mid-session quest chain or dynamic difficulty tuning
+20661,37,9.190193339755751,0,4,51,1,33,204,16.5,0.10319711536583291,10.2,0,Male,USA,Sports,Hard,Low,Low,0.9499,Habit Loop: Trigger daily login/streak reward or push notification
+41676,48,14.332995449195447,0,19,12,6,36,228,5.142857142857143,0.40450359609093284,0.6,0,Female,USA,Strategy,Hard,Low,Low,0.9498,Session Depth: Offer mid-session quest chain or dynamic difficulty tuning
+29247,21,10.192634602573523,0,12,21,44,2,252,0.044444444444444446,4.1149821008014245,1.6153846153846154,0,Female,Asia,Sports,Easy,Low,Low,0.9498,Session Depth: Offer mid-session quest chain or dynamic difficulty tuning
+22042,40,10.287825333681337,0,0,150,77,26,0,0.3333333333333333,7.1376758167926155,150.0,0,Male,Europe,RPG,Easy,Low,Low,0.9498,Habit Loop: Trigger daily login/streak reward or push notification
+18181,41,13.807940040033015,0,4,40,21,25,160,1.1363636363636365,1.4677165225212632,8.0,0,Female,USA,Action,Easy,Low,Low,0.9498,Habit Loop: Trigger daily login/streak reward or push notification
+39482,45,23.450877598293552,0,6,18,14,37,108,2.466666666666667,0.5845297293405846,2.5714285714285716,0,Female,Asia,Action,Easy,Low,Low,0.9497,Habit Loop: Trigger daily login/streak reward or push notification
+28081,41,19.95486790132089,0,3,84,17,6,252,0.3333333333333333,0.8310980096284177,21.0,0,Female,Europe,Action,Hard,Low,Low,0.9496,Habit Loop: Trigger daily login/streak reward or push notification
+17095,20,20.67199707652921,0,5,50,37,2,250,0.05263157894736842,1.747591399444191,8.333333333333334,0,Female,USA,Action,Easy,Low,Low,0.9496,Habit Loop: Trigger daily login/streak reward or push notification
+13773,30,10.621547817592417,0,1,154,49,18,154,0.36,4.405861558450547,77.0,0,Male,Europe,Strategy,Medium,Low,Low,0.9496,Habit Loop: Trigger daily login/streak reward or push notification
+37665,36,14.526269238382556,0,5,13,12,28,65,2.1538461538461537,0.7986014232559894,2.1666666666666665,0,Female,Europe,Simulation,Easy,Low,Low,0.9496,Habit Loop: Trigger daily login/streak reward or push notification
+35846,47,16.98077625572738,0,6,11,4,21,66,4.2,0.2288227903317191,1.5714285714285714,0,Female,Europe,Sports,Easy,Low,Low,0.9495,Habit Loop: Trigger daily login/streak reward or push notification
+31715,36,0.8433485719956186,0,2,96,11,22,192,1.8333333333333333,8.18849271835596,32.0,0,Male,Asia,Strategy,Medium,Low,Low,0.9494,Habit Loop: Trigger daily login/streak reward or push notification
+32600,38,10.44739494158167,0,10,24,1,30,240,15.0,0.09134593255621788,2.1818181818181817,0,Male,Asia,Action,Hard,Low,Low,0.9494,Session Depth: Offer mid-session quest chain or dynamic difficulty tuning
+9855,39,23.42718561690937,0,5,38,14,28,190,1.8666666666666667,0.5851085131427318,6.333333333333333,0,Female,Europe,Sports,Easy,Low,Low,0.9494,Habit Loop: Trigger daily login/streak reward or push notification
+33164,42,6.281626617389986,1,1,158,22,7,158,0.30434782608695654,3.244059462605306,79.0,1,Male,Asia,Strategy,Hard,Low,Low,0.9493,Habit Loop: Trigger daily login/streak reward or push notification
+21733,22,1.67949605562952,0,0,37,16,41,0,2.411764705882353,7.341146573159822,37.0,0,Female,USA,RPG,Easy,Low,Low,0.9493,Habit Loop: Trigger daily login/streak reward or push notification
+30473,16,23.813320218458237,0,1,25,26,32,25,1.1851851851851851,1.0693726634777452,12.5,0,Male,Europe,RPG,Easy,Low,Low,0.9492,Habit Loop: Trigger daily login/streak reward or push notification
+18165,42,21.958003287317737,0,0,168,76,8,0,0.1038961038961039,3.384094259302116,168.0,0,Male,USA,Simulation,Easy,Low,Low,0.9491,Habit Loop: Trigger daily login/streak reward or push notification
+23620,33,4.407529759739914,0,16,13,8,20,208,2.2222222222222223,1.6301480361117522,0.7647058823529411,0,Male,Other,Sports,Easy,Low,Low,0.9491,Session Depth: Offer mid-session quest chain or dynamic difficulty tuning
+18465,46,7.302322233076481,1,1,148,1,44,148,22.0,0.12816697005420868,74.0,1,Female,USA,Sports,Easy,Low,Low,0.949,Habit Loop: Trigger daily login/streak reward or push notification
+22989,28,12.905623494508564,0,0,172,1,5,0,2.5,0.07459556061750032,172.0,0,Male,USA,Sports,Easy,Low,Low,0.949,Habit Loop: Trigger daily login/streak reward or push notification
+24075,47,22.53784122613716,0,19,14,57,0,266,0.0,2.4741901569896965,0.7,0,Male,USA,Sports,Easy,Low,Low,0.949,Session Depth: Offer mid-session quest chain or dynamic difficulty tuning
+48319,44,15.653381691688406,0,3,85,60,1,255,0.01639344262295082,3.7143925120566257,21.25,0,Male,USA,Sports,Hard,Low,Low,0.9489,Habit Loop: Trigger daily login/streak reward or push notification
+15479,40,12.683959536296832,0,0,145,53,3,0,0.05555555555555555,4.020036609949037,145.0,0,Female,USA,Sports,Easy,Low,Low,0.9489,Habit Loop: Trigger daily login/streak reward or push notification
+42443,35,16.869213941127786,0,5,23,12,32,115,2.4615384615384617,0.6908775515503172,3.8333333333333335,0,Female,Europe,Action,Easy,Low,Low,0.9488,Habit Loop: Trigger daily login/streak reward or push notification
+36009,35,10.625006431005774,0,0,152,80,24,0,0.2962962962962963,7.191007079064446,152.0,0,Female,USA,Strategy,Medium,Low,Low,0.9487,Habit Loop: Trigger daily login/streak reward or push notification
+21211,36,4.527982173356731,0,0,79,8,1,0,0.1111111111111111,1.5910955377670164,79.0,0,Female,USA,RPG,Medium,Low,Low,0.9487,Habit Loop: Trigger daily login/streak reward or push notification
+48968,47,22.38842270205167,0,4,14,11,31,56,2.5833333333333335,0.4805923126810299,2.8,0,Male,Asia,Simulation,Hard,Low,Low,0.9487,Habit Loop: Trigger daily login/streak reward or push notification
+45176,48,19.288549353545697,0,5,41,29,7,205,0.23333333333333334,1.465493982498712,6.833333333333333,0,Male,Asia,Action,Hard,Low,Low,0.9486,Habit Loop: Trigger daily login/streak reward or push notification
+9561,31,22.83365153739087,0,1,104,14,42,104,2.8,0.5999918177215333,52.0,0,Male,USA,RPG,Easy,Low,Low,0.9484,Habit Loop: Trigger daily login/streak reward or push notification
+29645,22,9.59035810670516,0,10,13,25,46,130,1.7692307692307692,2.4776127601841216,1.1818181818181819,0,Male,USA,Simulation,Easy,Low,Low,0.9484,Session Depth: Offer mid-session quest chain or dynamic difficulty tuning
+28976,48,0.025942473586114,0,0,75,22,6,0,0.2608695652173913,41.82966979258023,75.0,0,Female,Europe,Strategy,Easy,Low,Low,0.9483,Habit Loop: Trigger daily login/streak reward or push notification
+34784,29,22.760520301977905,0,4,64,19,14,256,0.7,0.8168346947245363,12.8,0,Female,Europe,Sports,Hard,Low,Low,0.9483,Habit Loop: Trigger daily login/streak reward or push notification
+34609,38,0.7320561581991836,0,2,97,20,14,194,0.6666666666666666,16.23302628447773,32.333333333333336,0,Female,Europe,Action,Easy,Medium,Low,0.9483,Habit Loop: Trigger daily login/streak reward or push notification
+12967,44,22.052300485709317,0,3,96,48,0,288,0.0,2.1283859724384255,24.0,0,Male,Other,Action,Medium,Low,Low,0.9483,Habit Loop: Trigger daily login/streak reward or push notification
+29356,42,6.325840619634371,0,1,161,3,12,161,3.0,0.4395063065742511,80.5,0,Male,Europe,Action,Medium,Low,Low,0.9483,Habit Loop: Trigger daily login/streak reward or push notification
+30696,43,12.54138968144149,0,2,147,10,3,294,0.2727272727272727,0.766789448384513,49.0,0,Male,USA,Sports,Medium,Low,Low,0.9482,Habit Loop: Trigger daily login/streak reward or push notification
+37088,35,3.4418692865640415,0,4,18,9,17,72,1.7,2.2831807312020014,3.6,0,Female,USA,Sports,Hard,Low,Low,0.9482,Habit Loop: Trigger daily login/streak reward or push notification
+22337,23,9.134105343928006,1,0,88,24,29,0,1.16,2.4911498414459676,88.0,0,Male,Europe,Action,Hard,Low,Low,0.9481,Habit Loop: Trigger daily login/streak reward or push notification
+19495,18,4.231930101132647,0,3,92,3,10,276,2.5,0.6339907682241359,23.0,0,Male,Europe,Sports,Easy,Low,Low,0.9481,Habit Loop: Trigger daily login/streak reward or push notification
+11557,33,3.9632664821646353,0,9,27,6,34,243,4.857142857142857,1.344306916016824,2.7,0,Male,Asia,Action,Easy,Low,Low,0.9481,Session Depth: Offer mid-session quest chain or dynamic difficulty tuning
+20935,22,19.565701647339697,0,0,165,71,1,0,0.013888888888888888,3.5383761429251166,165.0,0,Male,Europe,Simulation,Medium,Low,Low,0.948,Habit Loop: Trigger daily login/streak reward or push notification
+26723,25,1.1170062538616268,1,5,39,16,1,195,0.058823529411764705,9.894828768775547,6.5,5,Male,Europe,Sports,Easy,Low,Low,0.948,Habit Loop: Trigger daily login/streak reward or push notification
+12190,35,23.9918475819852,0,1,127,5,16,127,2.6666666666666665,0.20414956377883525,63.5,0,Female,Other,Sports,Hard,Low,Low,0.948,Habit Loop: Trigger daily login/streak reward or push notification
+28277,39,0.6353816932420671,0,2,49,15,41,98,2.5625,13.21141611607961,16.333333333333332,0,Female,USA,Action,Medium,Low,Low,0.9479,Habit Loop: Trigger daily login/streak reward or push notification
+42880,38,3.724846914170103,0,13,15,28,15,195,0.5172413793103449,6.6274590698394835,1.0714285714285714,0,Female,Other,Strategy,Easy,Low,Low,0.9479,Session Depth: Offer mid-session quest chain or dynamic difficulty tuning
+42627,34,16.77333979022121,0,3,87,39,1,261,0.025,2.2578146712588083,21.75,0,Male,USA,Simulation,Hard,Low,Low,0.9479,Habit Loop: Trigger daily login/streak reward or push notification
+32368,26,12.091150851294836,0,1,154,67,2,154,0.029411764705882353,5.321197465687572,77.0,0,Male,USA,Simulation,Easy,Low,Low,0.9479,Habit Loop: Trigger daily login/streak reward or push notification
+9669,42,15.679730866462071,0,2,117,22,38,234,1.6521739130434783,1.3597259547501122,39.0,0,Male,Europe,RPG,Hard,Low,Low,0.9477,Habit Loop: Trigger daily login/streak reward or push notification
+48637,32,9.935392971825816,0,0,157,34,13,0,0.37142857142857144,3.258142754354868,157.0,0,Male,Europe,Strategy,Easy,Low,Low,0.9477,Habit Loop: Trigger daily login/streak reward or push notification
+27677,48,14.992663029069693,0,7,16,23,22,112,0.9166666666666666,1.4845736950996675,2.0,0,Female,USA,Simulation,Medium,Low,Low,0.9476,Habit Loop: Trigger daily login/streak reward or push notification
+15661,40,20.207395939355415,0,1,155,3,6,155,1.5,0.14487577331239193,77.5,0,Female,Europe,Action,Easy,Low,Low,0.9474,Habit Loop: Trigger daily login/streak reward or push notification
+29955,29,9.72078587969702,0,0,144,61,18,0,0.2903225806451613,5.96822991088903,144.0,0,Female,USA,Strategy,Easy,Low,Low,0.9474,Habit Loop: Trigger daily login/streak reward or push notification
+24523,32,23.409811236031143,0,3,85,39,14,255,0.35,1.6311295649724133,21.25,0,Male,USA,Sports,Medium,Low,Low,0.9471,Habit Loop: Trigger daily login/streak reward or push notification
+37102,41,13.183252354844145,0,2,13,9,32,26,3.2,0.6577383626790907,4.333333333333333,0,Female,Asia,Sports,Easy,Low,Low,0.9471,Habit Loop: Trigger daily login/streak reward or push notification
+48082,38,18.144491131971417,0,2,19,22,9,38,0.391304347826087,1.1799732073284952,6.333333333333333,0,Male,USA,Strategy,Hard,Low,Low,0.947,Habit Loop: Trigger daily login/streak reward or push notification
+13368,18,22.456098694114548,0,1,36,24,3,36,0.12,1.0454738115476514,18.0,0,Male,USA,RPG,Medium,Low,Low,0.947,Habit Loop: Trigger daily login/streak reward or push notification
+22810,45,2.6209128505486863,1,6,11,3,43,66,10.75,0.9612572166097401,1.5714285714285714,6,Female,USA,Strategy,Hard,Low,Low,0.947,Habit Loop: Trigger daily login/streak reward or push notification
+19711,41,16.58690421028897,0,10,28,63,3,280,0.046875,3.6870341885608635,2.5454545454545454,0,Male,Europe,Action,Easy,Low,Low,0.947,Session Depth: Offer mid-session quest chain or dynamic difficulty tuning
+37401,31,22.18064758831121,0,1,149,83,17,149,0.20238095238095238,3.6595075020157366,74.5,0,Female,Europe,Sports,Easy,Low,Low,0.947,Habit Loop: Trigger daily login/streak reward or push notification
+17885,17,9.065484134791078,0,0,86,7,3,0,0.375,0.731797774306056,86.0,0,Male,Europe,Action,Easy,Low,Low,0.9469,Habit Loop: Trigger daily login/streak reward or push notification
+35788,36,16.532201955104263,0,2,126,27,17,252,0.6071428571428571,1.5852324949627876,42.0,0,Male,Europe,Simulation,Medium,Low,Low,0.9468,Habit Loop: Trigger daily login/streak reward or push notification
+26289,34,13.822845511423782,1,7,26,18,15,182,0.7894736842105263,1.2567335160910134,3.25,7,Male,Other,Strategy,Hard,Low,Low,0.9468,Habit Loop: Trigger daily login/streak reward or push notification
